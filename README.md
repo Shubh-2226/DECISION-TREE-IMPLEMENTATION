@@ -1,9 +1,14 @@
 # DECISION-TREE-IMPLEMENTATION
 *COMPANY NAME*: CODETECH IT SOLUTIONS
+
 *NAME*: NITIN MAHOR
+
 *ITERN ID*: CT08RWJ
+
 *DOMAIN*: MACHINE LEARNING
+
 *DURATION*: 4 WEEKS
+
 *MENTOR*: NEELA SANTOSH KUMAR 
 
 **A **Decision Tree** is a popular machine learning algorithm that can be used for classification and regression tasks. It works by splitting the dataset into smaller subsets based on certain feature values, forming a tree-like structure that helps make predictions. Each node in the tree represents a decision based on a feature, and each branch represents the outcome of that decision. The final leaf nodes contain the predicted class labels (in classification tasks). In this example, we build a decision tree model to classify iris flowers into three species: Setosa, Versicolor, and Virginica, based on features such as sepal length, sepal width, petal length, and petal width.
@@ -24,3 +29,7 @@ The code, which is designed to run in a **Jupyter Notebook**, uses several power
 Decision trees have many practical applications in real-world problems. For example, in **medical diagnosis**, they can help predict whether a patient has a certain disease based on symptoms and test results. In **finance**, they are used for credit scoring to predict whether a person is likely to default on a loan. In **marketing**, decision trees are used to predict customer behavior, such as whether a customer is likely to churn or purchase a product.
 
 In conclusion, decision trees are a simple yet powerful tool for classification problems. The ability to visualize the tree structure and understand how the model makes decisions is one of the key advantages of this algorithm. By using **scikit-learn** and **matplotlib** in a **Jupyter Notebook**, you can easily implement, train, and evaluate a decision tree model for various classification tasks. The Iris dataset is a perfect example for demonstrating how decision trees work, and the tools used in this process make it easy to build and interpret such models.**
+
+OUTPUT:
+
+https://github.com/Shubh-2226/DECISION-TREE-IMPLEMENTATION/issues/1#issue-2890271397
