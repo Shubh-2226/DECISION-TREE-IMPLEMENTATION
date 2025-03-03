@@ -32,4 +32,3 @@ In conclusion, decision trees are a simple yet powerful tool for classification 
 
 OUTPUT:
 
-4136https://github.com/user-attachments/assets/d05002f1-1daf-4663-a091-22ccb07b7183)
