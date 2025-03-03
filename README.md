@@ -32,5 +32,4 @@ In conclusion, decision trees are a simple yet powerful tool for classification 
 
 OUTPUT:
 
-https://github.com/Shubh-2226/DECISION-TREE-IMPLEMENTATION/issues/1#issue-2890271397
-![Screenshot 2025-03-03 114136](https://github.com/user-attachments/assets/d05002f1-1daf-4663-a091-22ccb07b7183)
+4136https://github.com/user-attachments/assets/d05002f1-1daf-4663-a091-22ccb07b7183)
